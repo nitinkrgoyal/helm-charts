@@ -8,6 +8,6 @@ entries:
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
     name: sample-runtime-bundle
     urls:
-    - https://nitinkrgoyal.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
+    - https://nitinkrgoyal.github.io/helm-charts/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
 generated: 2018-12-12T17:34:41.1209225+05:30
