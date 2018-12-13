@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  sample-runtime-bundle:
+  - apiVersion: v1
+    created: 2018-12-12T17:34:41.1219205+05:30
+    description: A Helm chart for Kubernetes
+    digest: 41dcf01c53d30d193ad31ec567f178d54bbd34b7eaced8d00c14e590343f256e
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-runtime-bundle
+    urls:
+    - https://nitinkrgoyal.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-12-12T17:34:41.1209225+05:30
